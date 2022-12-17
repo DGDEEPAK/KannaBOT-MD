@@ -85,6 +85,16 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
+<p align="center">
+
+
+
+</p>
+
+## DEPLOY ON RAILWAY 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new)
+
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
