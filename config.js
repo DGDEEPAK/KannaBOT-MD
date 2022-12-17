@@ -41,11 +41,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/deepak_gupta_2006/'
+global.sgh = 'https://github.com/DGDEEPAK'
+global.sgc = 'https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1'
+global.sdc = 'https://wa.me/918348225320'
+global.snh = 'https://youtube.com/@dreamguydeepak'
 
 /*============== PAYMENT ==============*/
 global.pdana = '083174508962'
@@ -56,18 +56,18 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '918348225320'
+global.nomorown = '918348225320'
 global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nameown = 'Dream Guy Deepak'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['918348225320'],
+  ['918348225320'],
+  ['918348225320'],
+  ['917029257330', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -118,7 +118,7 @@ global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Deepak ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
