@@ -72,13 +72,13 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/DGDEEPAK/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Name [Here](https://github.com/DGDEEPAK/kannabot-md/blob/multi-device/config.js#L1)
+- Bot Name [Here](https://github.com/DGDEEPAK/kannabot-md/blob/multi-device/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/KannaBOT-MD)
 
 | BuildPack | LINK |
 |--------|--------|
