@@ -261,7 +261,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 🐾```
-[![DGDEEPAK](https://github.com/DGDEEPAK)
+* [DGDEEPAK](https://github.com/DGDEEPAK)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
