@@ -10,7 +10,7 @@
  <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Deepak-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/kannachann/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/kannachann/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -23,24 +23,24 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
+  <a href="https://wa.me/918348225320">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@knchann">
+  <a href="https://youtube.com/@dreamguydeepak">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ppiowy_/">
+  <a href="https://www.instagram.com/deepak_gupta_2006/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:kannachann@gmail.com">
+  <a href="mailto:deepakggamer@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
+## ```Whatsapp``` <a href="https://wa.me/918348225320"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918348225320) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918348225320) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1) 
 ---------
 
 #### KELEBIHAN 📍
@@ -102,7 +102,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/kannachann/KannaBOT-MD/
+$ git clone https://github.com/DGDEEPAK/KannaBOT-MD/
 $ cd KannaBOT-MD
 $ npm i 
 ```
@@ -145,7 +145,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/kannachann/KannaBOT-MD/
+git clone https://github.com/DGDEEPAK/KannaBOT-MD/
 cd KannaBOT-MD
 npm install
 npm update
@@ -161,7 +161,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/kannachann/KannaBOT-MD/
+git clone https://github.com/DGDEEPAK/KannaBOT-MD/
 cd KannaBOT-MD
 npm install
 npm update
