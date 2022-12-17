@@ -35,6 +35,7 @@
   <a href="mailto:deepakggamer@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+```
 ---------
 
 ## ```Whatsapp``` <a href="https://wa.me/918348225320"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
