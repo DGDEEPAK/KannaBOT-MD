@@ -106,16 +106,20 @@ $ git clone https://github.com/DGDEEPAK/KannaBOT-MD/
 $ cd KannaBOT-MD
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
-$ node .
-```
-
 #### If npm install failed, try using yarn instead of npm
 ```bash
 $ pkg install yarn -y
 $ yarn install
 ```
+If error try using yarn instead of npm, see [here](https://github.com/DGDEEPAK/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
+```bash
+$ node .
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
+```
+
 ---------
 
 ## TERMUX WITH UBUNTU
